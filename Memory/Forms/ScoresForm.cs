@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Serialization;
 
-namespace WindowsFormsApp1
+namespace Memory
 {
        public partial class ScoresForm : Form
     {
